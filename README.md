@@ -61,16 +61,16 @@ Size of data under study: 30 MB.
 
 ## Summary of the Project:
 
-On analyzing the maximum number of violations that are committed by each vehicle, notice that most vehicles performed 1 violation however, there are few vehicles which performed as high as 31 violations in a month.
+1] On analyzing the maximum number of violations that are committed by each vehicle, notice that most vehicles performed 1 violation however, there are few vehicles which performed as high as 31 violations in a month.
 
-On analysing the vehicle registration state, noticed that most violations that happened in Baltimore city are done by vehicles registered under the home state ie., Maryland (90%), followed by the nearby states Virginia (3%) and Pensylvania (1.7%). Also, noticed that there is a slight relationship between vehicle's state and the type of violation committed.
+2] On analysing the vehicle registration state, noticed that most violations that happened in Baltimore city are done by vehicles registered under the home state ie., Maryland (90%), followed by the nearby states Virginia (3%) and Pensylvania (1.7%). Also, noticed that there is a slight relationship between vehicle's state and the type of violation committed.
 
-Noticed that majority violations are performed by the vehicles of Make - Honda, Toyota and Nissan.
+3] Noticed that majority violations are performed by the vehicles of Make - Honda, Toyota and Nissan.
 
-More than 50% of violations are of the type: Fixed Speed Camera (56%), followed by Red light violation (12%) and Right on Red (12%).
+4] More than 50% of violations are of the type: Fixed Speed Camera (56%), followed by Red light violation (12%) and Right on Red (12%).
 
-Noticed that most of the violations happen during weekdays and during 8 AM - 7 PM hours. In april, 2019 majority of violations happened between 8 AM - 2 PM, however in April 2020, majority violations happened during 3 PM - 7 PM.
+5] Noticed that most of the violations happen during weekdays and during 8 AM - 7 PM hours. In april, 2019 majority of violations happened between 8 AM - 2 PM, however in April 2020, majority violations happened during 3 PM - 7 PM.
 
-Noticed there are few incidents in which red light violation, fixed camera violation etc. where the notice was issued nearly 19 months after the violation incident.
+6] Noticed there are few incidents in which red light violation, fixed camera violation etc. where the notice was issued nearly 19 months after the violation incident.
 
-Finally, due to the lock down during COVID-19 pandemic in the month of April 2020, noticed a overall drop of 16.59% in the violations reported in comparison to April, 2019. However, there is no statistical significance at alpha = 0.05 per state.
+7] Finally, due to the lock down during COVID-19 pandemic in the month of April 2020, noticed a overall drop of 16.59% in the violations reported in comparison to April, 2019. However, there is no statistical significance at alpha = 0.05 per state.

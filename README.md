@@ -1,7 +1,8 @@
-Overview of the data:
+## Overview of the data:
 Data consists of the parking citations issued in the City of Baltimore over the last four years. This is a huge data set with a memory of 842.5 MB. However, I am considering only the month of April of the 2019 and 2020 years which reduces the size significantly (approximately to 30 MB).
 
 Data consists of 26 columns:
+
 • Citation: Citation number issued by the police personnel
 
 • Tag: Vehicle registration plate/tag number
@@ -58,15 +59,18 @@ Record count of original data is 4705888. However, the data under the study has 
 
 Size of data under study: 30 MB.
 
-Proposed objectives of the project:
-• Clean and format the data as necessary.
+## Summary of the Project:
 
-• Perform exploratory data analysis to understand the violations distribution across vehicles of different states and see if out of state vehicles have more violations than in state vehicles?
+On analyzing the maximum number of violations that are committed by each vehicle, notice that most vehicles performed 1 violation however, there are few vehicles which performed as high as 31 violations in a month.
 
-• To analyze the change in the violation count due to the implementation of lock down due to novel COVID-19 pandemic in 2020 in comparison to 2019.
+On analysing the vehicle registration state, noticed that most violations that happened in Baltimore city are done by vehicles registered under the home state ie., Maryland (90%), followed by the nearby states Virginia (3%) and Pensylvania (1.7%). Also, noticed that there is a slight relationship between vehicle's state and the type of violation committed.
 
-• To see if how the violations are distributed across various vehicle makes.
+Noticed that majority violations are performed by the vehicles of Make - Honda, Toyota and Nissan.
 
-• To see the frequency of types of violation occurred during the month of April in 2019 and 2020.
+More than 50% of violations are of the type: Fixed Speed Camera (56%), followed by Red light violation (12%) and Right on Red (12%).
 
-• To analyze the distribution of violation charges and look for any changes observed in 2020 in comparison to 2019.
+Noticed that most of the violations happen during weekdays and during 8 AM - 7 PM hours. In april, 2019 majority of violations happened between 8 AM - 2 PM, however in April 2020, majority violations happened during 3 PM - 7 PM.
+
+Noticed there are few incidents in which red light violation, fixed camera violation etc. where the notice was issued nearly 19 months after the violation incident.
+
+Finally, due to the lock down during COVID-19 pandemic in the month of April 2020, noticed a overall drop of 16.59% in the violations reported in comparison to April, 2019. However, there is no statistical significance at alpha = 0.05 per state.
